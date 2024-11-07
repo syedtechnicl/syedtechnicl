@@ -1,4 +1,4 @@
-[logo](https://github.com/syedtechnicl/syedtechnicl/blob/main/banner1.png)
+[logo](https://github.com/syedtechnicl/syedtechnicl/blob/main/ssss.avif)
 
 <h1 align="center">Hi 👋, I'm Syed Muqtadeer</h1>
 <h3 align="center">A Passionate Full Stack Developer From India</h3>
