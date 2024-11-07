@@ -1,4 +1,4 @@
-[logo](https://github.com/syedtechnicl/syedtechnicl/blob/main/ssss.avif)
+[logo](https://img.freepik.com/free-vector/colorful-gradient-background-modern-design_361591-4692.jpg)
 
 <h1 align="center">Hi 👋, I'm Syed Muqtadeer</h1>
 <h3 align="center">A Passionate Full Stack Developer From India</h3>
