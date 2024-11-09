@@ -1,4 +1,4 @@
-<img src="https://media.licdn.com/dms/image/D5612AQFIpZwJ2JQNVg/article-cover_image-shrink_600_2000/0/1696430103228?e=2147483647&v=beta&t=f6V5Mh1SKAxMdnS0pK-R98flZvurCdtTyLkrvEOrX0M" alt="Logo" width="1400"/>
+<img src="https://www.photofunky.net/output/image/e/d/8/7/ed8739/photofunky.gif" alt="Logo" width="1400"/>
 
 <h1 align="center">Hi 👋, I'm Syed Muqtadeer</h1>
 <h3 align="center">A Passionate Full Stack Developer From India</h3>
